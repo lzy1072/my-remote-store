@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/5/7 17:41:01。
+     1>项目“D:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\get-file-name-for-build-makefile.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "get-file-name-for-build-makefile.cpp"
+         get-file-name-for-build-makefile.cpp
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(20): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\direct.h(91): note: 参见“getcwd”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(29): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(38): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(43): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(70): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(71): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(82): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.cpp(83): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+       Link:
+         D:\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\lzy\my_project\get-file-name-for-build-makefile\Debug\get-file-name-for-build-makefile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\lzy\my_project\get-file-name-for-build-makefile\Debug\get-file-name-for-build-makefile.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\lzy\my_project\get-file-name-for-build-makefile\Debug\get-file-name-for-build-makefile.lib" /MACHINE:X86 "Debug\get-file-name-for-build-makefile.res"
+         "Debug\get-file-name-for-build-makefile.obj"
+         Debug\stdafx.obj
+         get-file-name-for-build-makefile.vcxproj -> D:\lzy\my_project\get-file-name-for-build-makefile\Debug\get-file-name-for-build-makefile.exe
+     1>已完成生成项目“D:\lzy\my_project\get-file-name-for-build-makefile\get-file-name-for-build-makefile\get-file-name-for-build-makefile.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.96
